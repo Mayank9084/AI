@@ -58,3 +58,24 @@ while ((M2!=3) or (C2!=3)) :
          print("Cannibal ate amissionary")
          break
 print("DONE \nThey have successfully passed the rivers",M2,C2)
+
+OUTPUT:-
+
+One Missionary is sailing boat from Bank 1 to Bank 2
+Two Missionary are sailing boat from Bank 1 to Bank 2
+One Missionary and one cannibal are sailing boat from Bank 1 to Bank 2
+One cannibal is sailing boat from Bank 1 to Bank 2
+Two cannibal sailing boat from Bank 1 to Bank 2
+One Missionary is sailing boat from Bank 2 to Bank 1
+two Missionary are sailing boat from Bank 2 to Bank 1
+One Missionary and one cannibal are sailing boat from Bank 2 to Bank 1
+One cannibal is sailing boat from Bank 2 to Bank 1
+Two cannibal sailing boat from Bank 2 to Bank 1
+Enter your choice5
+Enter your choice4
+Enter your choice3
+Enter your choice8
+Enter your choice1
+Enter your choice2
+DONE 
+They have successfully passed the rivers 3 3
